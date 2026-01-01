@@ -20,7 +20,3 @@ Events displayed on their respective dates
 Supports multiple events on the same day using color-coded event blocks
 Clean, modern, and minimal UI inspired by Google Calendar–style layouts
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
